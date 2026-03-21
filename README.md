@@ -1,16 +1,32 @@
-## Hi there 👋
+💫 About Me:
+🔭 Currently building modern web applications and C++ systems projects,
+focused on clean, performant code and strong engineering fundamentals.
 
-<!--
-**Ayush-ui309/Ayush-ui309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 Open to collaborating on web development and open source projects —
+especially at the intersection of great UX and solid engineering.
 
-Here are some ideas to get you started:
+🤝 Happy to help with C, C++, OOP design principles, frontend development,
+and UI/UX design in Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently leveling up in Data Structures & Algorithms and backend
+development — building APIs and servers to complete my full-stack toolkit.
+
+💬 Ask me about C, C++, HTML, CSS, JavaScript, and Python.
+
+🌐 Socials:
+Instagram LinkedIn X email
+
+💻 Tech Stack:
+C++ C JavaScript HTML5 Supabase Figma Git NumPy Pandas MySQL TailwindCSS Vite React Vercel CSS3 Python
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🔝 Top Contributed Repo
+
+
+
