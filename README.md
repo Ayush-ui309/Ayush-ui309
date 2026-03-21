@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🔭 Currently building modern web applications and C++ systems projects,<br>   focused on clean, performant code and strong engineering fundamentals.<br><br>👯 Open to collaborating on web development and open source projects —<br>   especially at the intersection of great UX and solid engineering.<br><br>🤝 Happy to help with C, C++, OOP design principles, frontend development,<br>   and UI/UX design in Figma.<br><br>🌱 Currently leveling up in Data Structures & Algorithms and backend<br>   development — building APIs and servers to complete my full-stack toolkit.<br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, and Python.<br><br>
 ###💼 PORTFOLIO
 [Check Out my Portfolio](http://127.0.0.1:5501/index.html)
